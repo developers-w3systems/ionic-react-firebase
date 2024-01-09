@@ -1,0 +1,7 @@
+{
+  "name": "react-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
